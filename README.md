@@ -13,9 +13,6 @@ git clone https://github.com/drojaspamplona/frontfinak
 
 
 ## Despues de clonado instala las depencias con el comando 
-```bash
 npm install
 #y corre el proyecto con 
-
-```bash
 npm run dev
